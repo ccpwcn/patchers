@@ -1,0 +1,17 @@
+编辑Xmind.ini文件
+
+以文本格式打开，并追加如下内容：
+
+-javaagent:C:\mysoftware\XMind8\XMindCrack.jar
+
+
+授权
+
+打开 XMind，点击帮助->序列号，然后输入自己的邮箱和以下序列号 
+XAka34A2rVRYJ4XBIU35UZMUEEF64CMMIYZCK2FZZUQNODEKUHGJLFMSLIQMQUCUBXRENLK6NZL37JXP4PZXQFILMQ2RG5R7G4QNDO3PSOEUBOCDRYSSXZGRARV6MGA33TN2AMUBHEL4FXMWYTTJDEINJXUAV4BAYKBDCZQWVF3LWYXSDCXY546U3NBGOI3ZPAP2SO3CSQFNB7VVIY123456789012345
+
+--------------------- 
+作者：爱数星星的孩子 
+来源：CSDN 
+原文：https://blog.csdn.net/xiaoQL520/article/details/83345955 
+版权声明：本文为博主原创文章，转载请附上博文链接！
